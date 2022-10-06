@@ -1,4 +1,6 @@
 # Corporate
+Preview here: https://corporatetemplate.zesty.dev/
+
 A simple professional template for beginners on Zesty.
 
 ## Brand colors
