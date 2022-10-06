@@ -1,0 +1,25 @@
+
+  - referenceName: "text-color"
+    name: "Default Text Color"
+    sort: 1
+    type: "color"
+    value: "#f8f9f6"
+    description: "Nav and Footer Text Color"
+    category: 2
+    options: null
+  - referenceName: "brand-primary"
+    name: "Brand Color"
+    sort: 3
+    type: "color"
+    value: "#060542"
+    description: "This color is used for hairlines, borders, even color on tables, and general aesthetics"
+    category: 1
+    options: null
+  - referenceName: "accent-color"
+    name: "Accent Color"
+    sort: 3
+    type: "color"
+    value: "#d1e4ef"
+    description: "This color is used for hairlines, borders, even color on tables, and general aesthetics"
+    category: 1
+    options: null

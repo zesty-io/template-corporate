@@ -1,0 +1,20 @@
+
+  - id: "0c1a-7fe2-87c4"
+    web:
+      metaDescription: ""
+      metaTitle: "Homepage"
+      metaLinkText: "Homepage"
+      metaKeywords: null
+      pathPart: "zesty_home"
+      path: "/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 0
+      listed: true
+    data:
+      description: "<p>A biography may be a simple recounting of a person&rsquo;s life, or it could be an extensive work that has been written by multiple authors and takes the subject through significant periods in their life.</p>"
+      image: "https://kfz670tf.media.zestyio.com/officeSpace.jpg"

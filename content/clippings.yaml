@@ -1,0 +1,22 @@
+
+  - id: "8936-8d06-c82a"
+    web:
+      metaDescription: ""
+      metaTitle: null
+      metaLinkText: null
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      footer_title: "© 2022 Copyright: Template"
+      learn_more: "https://www.zesty.io/"
+      logo: "https://kfz670tf.media.zestyio.com/logoipsum.png"
+      site_name: "Corporate"

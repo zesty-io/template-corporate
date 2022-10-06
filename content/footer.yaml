@@ -1,0 +1,127 @@
+
+  - id: "d335-f25b-6d1f"
+    web:
+      metaDescription: ""
+      metaTitle: "LinkedIn"
+      metaLinkText: "LinkedIn"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 139
+      listed: true
+    data:
+      footer_icon: "https://kfz670tf.media.zestyio.com/linkedin.png"
+      footer_url: "https://www.linkedin.com/company/zesty-io/"
+      sort_by: 2
+      title: "LinkedIn"
+  - id: "aab4-7cc2-8e79"
+    web:
+      metaDescription: ""
+      metaTitle: "Facebook"
+      metaLinkText: "Facebook"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 137
+      listed: true
+    data:
+      footer_icon: "https://kfz670tf.media.zestyio.com/facebook.png"
+      footer_url: "https://www.facebook.com/zestyio"
+      sort_by: 4
+      title: "Facebook"
+  - id: "2e3e-0c6c-2e20"
+    web:
+      metaDescription: ""
+      metaTitle: "Youtube"
+      metaLinkText: "Youtube"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 135
+      listed: true
+    data:
+      footer_icon: "https://kfz670tf.media.zestyio.com/youtube.png"
+      footer_url: "https://www.youtube.com/c/Zestyio"
+      sort_by: 6
+      title: "Youtube"
+  - id: "a58d-292f-8883"
+    web:
+      metaDescription: ""
+      metaTitle: "Twitter"
+      metaLinkText: "Twitter"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 138
+      listed: true
+    data:
+      footer_icon: "https://kfz670tf.media.zestyio.com/twitter.png"
+      footer_url: "https://twitter.com/zestyio"
+      sort_by: 3
+      title: "Twitter"
+  - id: "a72c-e2f1-65af"
+    web:
+      metaDescription: ""
+      metaTitle: "GitHub"
+      metaLinkText: "GitHub"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 140
+      listed: true
+    data:
+      footer_icon: "https://kfz670tf.media.zestyio.com/github.png"
+      footer_url: "https://github.com/zesty-io"
+      sort_by: 1
+      title: "GitHub"
+  - id: "2188-5949-c29f"
+    web:
+      metaDescription: ""
+      metaTitle: "Instagram"
+      metaLinkText: "Instagram"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 136
+      listed: true
+    data:
+      footer_icon: "https://kfz670tf.media.zestyio.com/instagram.png"
+      footer_url: null
+      sort_by: 5
+      title: "Instagram"

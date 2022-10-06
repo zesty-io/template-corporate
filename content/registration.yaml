@@ -1,0 +1,26 @@
+
+  - id: "d963-edb8-e7df"
+    web:
+      metaDescription: ""
+      metaTitle: "Contact Us"
+      metaLinkText: "Contact Us"
+      metaKeywords: null
+      pathPart: "contact-us"
+      path: "/contact-us/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 122
+      listed: true
+    data:
+      description: "<p>We'd love to hear from you!</p>"
+      form_title: "Contact Us"
+      label_input_1: "Email"
+      label_input_2: "Name"
+      label_input_3: "Message"
+      message_placeholder: "Sample message"
+      submit_message: "<div>\n<div>Thank&nbsp;you&nbsp;for&nbsp;contacting&nbsp;us!&nbsp;We&nbsp;will&nbsp;reach&nbsp;out&nbsp;to&nbsp;you&nbsp;shortly.</div>\n</div>"
+      title: "Get In Touch"

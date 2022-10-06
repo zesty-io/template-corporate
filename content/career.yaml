@@ -1,0 +1,18 @@
+
+  - id: "f5ce-3458-2c1f"
+    web:
+      metaDescription: ""
+      metaTitle: "Career"
+      metaLinkText: "Career"
+      metaKeywords: null
+      pathPart: "career"
+      path: "/career/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 118
+      listed: true
+    data: {}
