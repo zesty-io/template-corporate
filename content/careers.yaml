@@ -1,61 +1,61 @@
 
-  - id: "05c1-d687-a84c"
-    web:
-      metaDescription: ""
-      metaTitle: "Tenent mordicus"
-      metaLinkText: "Tenent mordicus"
-      metaKeywords: null
-      pathPart: "tenent-mordicus"
-      path: "/career/tenent-mordicus/"
-      sitemapPriority: -1
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-      parent: "/career/"
-    meta:
-      sort: 124
-      listed: true
-    data:
-      description: "<div>\n<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eadem nunc mea adversum te oratio est. Est enim effectrix multarum et magnarum voluptatum. Eadem nunc mea adversum te oratio est. Duo Reges: constructio interrete. Quorum sine causa fieri nihil putandum est. Nam ante Aristippus, et Quippe: habes enim a rhetoribus;&nbsp;</div>\n</div>"
-      image: "https://kfz670tf.media.zestyio.com/career1.jpg"
-      sort_by: 3
-      title: "Tenent mordicus"
-  - id: "1ab7-d5aa-4b0f"
+  - id: "9d92-f0b1-2d9e"
     web:
       metaDescription: ""
       metaTitle: "Luxuriosus Sit"
       metaLinkText: "Luxuriosus Sit"
       metaKeywords: null
       pathPart: "luxuriosus-sit"
-      path: "/career/luxuriosus-sit/"
+      path: "/luxuriosus-sit/"
       sitemapPriority: -1
       canonicalTagMode: 1
       canonicalQueryParamWhitelist: null
       canonicalTagCustomValue: null
-      parent: "/career/"
+      parent: "/"
     meta:
-      sort: 125
+      sort: 120
       listed: true
     data:
       description: "<div>\n<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nihil opus est exemplis hoc facere longius. Quod non faceret, si in voluptate summum bonum poneret. Idemne, quod iucunde? Duo Reges: constructio interrete. Quod ea non occurrentia fingunt, vincunt Aristonem; Conferam tecum, quam cuique verso rem subicias; Ut non sine causa ex iis memoriae ducta sit disciplina. Idem iste, inquam, de voluptate quid sentit? Unum nescio, quo modo possit, finitas habere.</div>\n</div>"
       image: "https://kfz670tf.media.zestyio.com/career2.jpg"
       sort_by: 4
       title: "Luxuriosus Sit"
-  - id: "c85b-27f6-9a2d"
+  - id: "6f33-51d0-69ce"
+    web:
+      metaDescription: ""
+      metaTitle: "Tenent mordicus"
+      metaLinkText: "Tenent mordicus"
+      metaKeywords: null
+      pathPart: "tenent-mordicus"
+      path: "/tenent-mordicus/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 119
+      listed: true
+    data:
+      description: "<div>\n<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eadem nunc mea adversum te oratio est. Est enim effectrix multarum et magnarum voluptatum. Eadem nunc mea adversum te oratio est. Duo Reges: constructio interrete. Quorum sine causa fieri nihil putandum est. Nam ante Aristippus, et Quippe: habes enim a rhetoribus;&nbsp;</div>\n</div>"
+      image: "https://kfz670tf.media.zestyio.com/career1.jpg"
+      sort_by: 3
+      title: "Tenent mordicus"
+  - id: "c0a3-ff6e-f8f3"
     web:
       metaDescription: ""
       metaTitle: "Egone quaeris"
       metaLinkText: "Egone quaeris"
       metaKeywords: null
       pathPart: "egone-quaeris"
-      path: "/career/egone-quaeris/"
+      path: "/egone-quaeris/"
       sitemapPriority: -1
       canonicalTagMode: 1
       canonicalQueryParamWhitelist: null
       canonicalTagCustomValue: null
-      parent: "/career/"
+      parent: "/"
     meta:
-      sort: 126
+      sort: 121
       listed: true
     data:
       description: "<div>\n<div>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quo modo? Duo Reges: constructio interrete. De hominibus dici non necesse est. Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; Nulla erit controversia. Cur haec eadem Democritus? Quid autem habent admirationis, cum prope accesseris? Et quidem Arcesilas tuus, etsi fuit in disserendo pertinacior, tamen noster fuit;</p>\n</div>\n</div>"

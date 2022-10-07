@@ -1,53 +1,5 @@
 
   - description: null
-    label: "Globals"
-    name: "clippings"
-    sort: 1
-    listed: true
-    hasRoute: false
-    showAsTable: false
-    parent: null
-    content: "/content/clippings.yaml"
-    fields:
-      - name: "site_name"
-        label: "Site Name"
-        description: null
-        datatype: "text"
-        sort: 1
-        required: false
-        relationship: null
-        settings:
-          list: false
-          options: {}
-      - name: "logo"
-        label: "Site Logo"
-        description: null
-        datatype: "images"
-        sort: 2
-        required: null
-        relationship: null
-        settings:
-          limit: 1
-          options: {}
-      - name: "learn_more"
-        label: "Learn More"
-        description: "This link redirects to register page"
-        datatype: "link"
-        sort: 10000
-        required: false
-        relationship: null
-        settings:
-          list: true
-      - name: "footer_title"
-        label: "Footer Title"
-        description: ""
-        datatype: "text"
-        sort: 10000
-        required: false
-        relationship: null
-        settings:
-          list: true
-  - description: null
     label: "Homepage"
     name: "homepage"
     sort: 1
@@ -62,25 +14,73 @@
         label: "image"
         description: ""
         datatype: "images"
-        sort: 10000
-        required: true
+        sort: 1
+        required: false
         relationship: null
         settings:
-          group_id: "1-e8d36d2-px2blz"
           list: true
       - name: "description"
         label: "Description"
         description: ""
         datatype: "wysiwyg_basic"
-        sort: 10000
+        sort: 2
         required: false
         relationship: null
         settings:
           list: true
-  - description: ""
+  - description: null
+    label: "Globals"
+    name: "clippings"
+    sort: 2
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: null
+    content: "/content/clippings.yaml"
+    fields:
+      - name: "site_name"
+        label: "Site Name"
+        description: ""
+        datatype: "text"
+        sort: 1
+        required: false
+        relationship: null
+        settings:
+          list: true
+          options: {}
+      - name: "logo"
+        label: "Site Logo"
+        description: ""
+        datatype: "images"
+        sort: 2
+        required: false
+        relationship: null
+        settings:
+          limit: 1
+          list: true
+          options: {}
+      - name: "learn_more"
+        label: "Learn More"
+        description: "This link redirects to register page"
+        datatype: "link"
+        sort: 3
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "footer_title"
+        label: "Footer Title"
+        description: ""
+        datatype: "text"
+        sort: 4
+        required: false
+        relationship: null
+        settings:
+          list: true
+  - description: null
     label: "Biography"
     name: "biography"
-    sort: 100
+    sort: 4
     listed: true
     hasRoute: true
     showAsTable: false
@@ -92,8 +92,8 @@
         label: "Title"
         description: ""
         datatype: "text"
-        sort: 0
-        required: true
+        sort: 1
+        required: false
         relationship: null
         settings:
           list: true
@@ -101,15 +101,24 @@
         label: "Description"
         description: "First paragraph description "
         datatype: "wysiwyg_basic"
-        sort: 1
+        sort: 2
         required: false
         relationship: null
         settings:
           list: true
-  - description: ""
+      - name: "aaaaaa"
+        label: "aaaaaa"
+        description: ""
+        datatype: "uuid"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+  - description: null
     label: "Navigation"
     name: "navigation"
-    sort: 106
+    sort: 6
     listed: true
     hasRoute: false
     showAsTable: false
@@ -120,7 +129,7 @@
         label: "Title"
         description: ""
         datatype: "text"
-        sort: 10000
+        sort: 1
         required: false
         relationship: null
         settings:
@@ -129,7 +138,7 @@
         label: "Page Link"
         description: "Select existing content item that this navigation item will route to."
         datatype: "internal_link"
-        sort: 10000
+        sort: 2
         required: false
         relationship: null
         settings:
@@ -138,7 +147,7 @@
         label: "External page"
         description: "If internal link is blank then external link will be used."
         datatype: "link"
-        sort: 10000
+        sort: 3
         required: false
         relationship: null
         settings:
@@ -147,15 +156,15 @@
         label: "Sort"
         description: ""
         datatype: "sort"
-        sort: 10000
+        sort: 4
         required: false
         relationship: null
         settings:
           list: true
-  - description: ""
+  - description: null
     label: "Career"
     name: "career"
-    sort: 117
+    sort: 7
     listed: true
     hasRoute: true
     showAsTable: false
@@ -163,10 +172,10 @@
     view: "/views/career.tpl"
     content: "/content/career.yaml"
     fields: []
-  - description: ""
+  - description: null
     label: "Careers"
     name: "careers"
-    sort: 119
+    sort: 9
     listed: true
     hasRoute: true
     showAsTable: true
@@ -178,7 +187,7 @@
         label: "Title"
         description: ""
         datatype: "text"
-        sort: 10000
+        sort: 1
         required: false
         relationship: null
         settings:
@@ -187,7 +196,7 @@
         label: "Description"
         description: ""
         datatype: "wysiwyg_basic"
-        sort: 10000
+        sort: 2
         required: false
         relationship: null
         settings:
@@ -196,26 +205,25 @@
         label: "Image"
         description: ""
         datatype: "images"
-        sort: 10000
+        sort: 3
         required: false
         relationship: null
         settings:
-          group_id: "1-e8d36d2-px2blz"
           limit: "1"
           list: true
       - name: "sort_by"
         label: "Sort by"
         description: ""
         datatype: "sort"
-        sort: 10000
+        sort: 4
         required: false
         relationship: null
         settings:
           list: true
-  - description: ""
+  - description: null
     label: "Contact Us"
     name: "registration"
-    sort: 121
+    sort: 10
     listed: true
     hasRoute: true
     showAsTable: false
@@ -227,7 +235,7 @@
         label: "Title"
         description: ""
         datatype: "text"
-        sort: 10000
+        sort: 1
         required: false
         relationship: null
         settings:
@@ -236,7 +244,7 @@
         label: "Description"
         description: ""
         datatype: "wysiwyg_basic"
-        sort: 10000
+        sort: 2
         required: false
         relationship: null
         settings:
@@ -245,7 +253,7 @@
         label: "Form Title"
         description: ""
         datatype: "text"
-        sort: 10000
+        sort: 3
         required: false
         relationship: null
         settings:
@@ -254,7 +262,7 @@
         label: "Label Input 1"
         description: ""
         datatype: "text"
-        sort: 10000
+        sort: 4
         required: false
         relationship: null
         settings:
@@ -263,7 +271,7 @@
         label: "Label Input 2"
         description: ""
         datatype: "text"
-        sort: 10000
+        sort: 5
         required: false
         relationship: null
         settings:
@@ -272,7 +280,7 @@
         label: "Label Input 3"
         description: ""
         datatype: "text"
-        sort: 10000
+        sort: 6
         required: false
         relationship: null
         settings:
@@ -281,7 +289,7 @@
         label: "Submit Message"
         description: ""
         datatype: "wysiwyg_basic"
-        sort: 10000
+        sort: 7
         required: false
         relationship: null
         settings:
@@ -290,15 +298,15 @@
         label: "Message placeholder"
         description: ""
         datatype: "textarea"
-        sort: 10000
+        sort: 8
         required: false
         relationship: null
         settings:
           list: true
-  - description: ""
+  - description: null
     label: "Footer"
     name: "footer"
-    sort: 134
+    sort: 12
     listed: true
     hasRoute: false
     showAsTable: false
@@ -310,7 +318,7 @@
         label: "Title"
         description: ""
         datatype: "text"
-        sort: 10000
+        sort: 1
         required: false
         relationship: null
         settings:
@@ -319,7 +327,7 @@
         label: "Footer Icon"
         description: ""
         datatype: "images"
-        sort: 10000
+        sort: 2
         required: false
         relationship: null
         settings:
@@ -328,7 +336,7 @@
         label: "Sort by"
         description: ""
         datatype: "sort"
-        sort: 10000
+        sort: 3
         required: false
         relationship: null
         settings:
@@ -337,7 +345,7 @@
         label: "Footer Url"
         description: ""
         datatype: "link"
-        sort: 10000
+        sort: 4
         required: false
         relationship: null
         settings:

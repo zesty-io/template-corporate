@@ -1,33 +1,9 @@
 
   - type: "script"
     attributes:
-      src: "https://cdn.tailwindcss.com"
-    sort: 0
-  - type: "meta"
-    attributes:
-      content: "black"
-      name: "apple-mobile-web-app-status-bar-style"
-    sort: 0
-  - type: "meta"
-    attributes:
-      content: "IE=edge"
-      http-equiv: "X-UA-Compatible"
-    sort: 0
-  - type: "script"
-    attributes:
-      src: "main.js"
-      type: "text/javascript"
-    sort: 6
-  - type: "script"
-    attributes:
       src: "https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"
       type: "text/javascript"
     sort: 6
-  - type: "script"
-    attributes:
-      rel: ""
-      src: ""
-    sort: 7
   - type: "meta"
     attributes:
       content: "yes"
@@ -39,4 +15,28 @@
       rel: "icon"
       sizes: "196x196"
       type: "image/png"
+    sort: 0
+  - type: "meta"
+    attributes:
+      content: "black"
+      name: "apple-mobile-web-app-status-bar-style"
+    sort: 0
+  - type: "script"
+    attributes:
+      src: "https://cdn.tailwindcss.com"
+    sort: 0
+  - type: "script"
+    attributes:
+      src: "main.js"
+      type: "text/javascript"
+    sort: 6
+  - type: "script"
+    attributes:
+      rel: ""
+      src: ""
+    sort: 7
+  - type: "meta"
+    attributes:
+      content: "IE=edge"
+      http-equiv: "X-UA-Compatible"
     sort: 0

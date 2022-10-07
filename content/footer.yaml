@@ -1,47 +1,5 @@
 
-  - id: "d335-f25b-6d1f"
-    web:
-      metaDescription: ""
-      metaTitle: "LinkedIn"
-      metaLinkText: "LinkedIn"
-      metaKeywords: null
-      pathPart: null
-      path: null
-      sitemapPriority: -1
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-      parent: "/"
-    meta:
-      sort: 139
-      listed: true
-    data:
-      footer_icon: "https://kfz670tf.media.zestyio.com/linkedin.png"
-      footer_url: "https://www.linkedin.com/company/zesty-io/"
-      sort_by: 2
-      title: "LinkedIn"
-  - id: "aab4-7cc2-8e79"
-    web:
-      metaDescription: ""
-      metaTitle: "Facebook"
-      metaLinkText: "Facebook"
-      metaKeywords: null
-      pathPart: null
-      path: null
-      sitemapPriority: -1
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-      parent: "/"
-    meta:
-      sort: 137
-      listed: true
-    data:
-      footer_icon: "https://kfz670tf.media.zestyio.com/facebook.png"
-      footer_url: "https://www.facebook.com/zestyio"
-      sort_by: 4
-      title: "Facebook"
-  - id: "2e3e-0c6c-2e20"
+  - id: "842b-ca7f-60b6"
     web:
       metaDescription: ""
       metaTitle: "Youtube"
@@ -55,14 +13,56 @@
       canonicalTagCustomValue: null
       parent: "/"
     meta:
-      sort: 135
+      sort: 125
       listed: true
     data:
       footer_icon: "https://kfz670tf.media.zestyio.com/youtube.png"
       footer_url: "https://www.youtube.com/c/Zestyio"
       sort_by: 6
       title: "Youtube"
-  - id: "a58d-292f-8883"
+  - id: "79a2-d70d-d4e9"
+    web:
+      metaDescription: ""
+      metaTitle: "LinkedIn"
+      metaLinkText: "LinkedIn"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 123
+      listed: true
+    data:
+      footer_icon: "https://kfz670tf.media.zestyio.com/linkedin.png"
+      footer_url: "https://www.linkedin.com/company/zesty-io/"
+      sort_by: 2
+      title: "LinkedIn"
+  - id: "887b-77f3-2227"
+    web:
+      metaDescription: ""
+      metaTitle: "Facebook"
+      metaLinkText: "Facebook"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 124
+      listed: true
+    data:
+      footer_icon: "https://kfz670tf.media.zestyio.com/facebook.png"
+      footer_url: "https://www.facebook.com/zestyio"
+      sort_by: 4
+      title: "Facebook"
+  - id: "9f12-07e8-ea80"
     web:
       metaDescription: ""
       metaTitle: "Twitter"
@@ -76,35 +76,14 @@
       canonicalTagCustomValue: null
       parent: "/"
     meta:
-      sort: 138
+      sort: 126
       listed: true
     data:
       footer_icon: "https://kfz670tf.media.zestyio.com/twitter.png"
       footer_url: "https://twitter.com/zestyio"
       sort_by: 3
       title: "Twitter"
-  - id: "a72c-e2f1-65af"
-    web:
-      metaDescription: ""
-      metaTitle: "GitHub"
-      metaLinkText: "GitHub"
-      metaKeywords: null
-      pathPart: null
-      path: null
-      sitemapPriority: -1
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-      parent: "/"
-    meta:
-      sort: 140
-      listed: true
-    data:
-      footer_icon: "https://kfz670tf.media.zestyio.com/github.png"
-      footer_url: "https://github.com/zesty-io"
-      sort_by: 1
-      title: "GitHub"
-  - id: "2188-5949-c29f"
+  - id: "96b6-d8d2-0254"
     web:
       metaDescription: ""
       metaTitle: "Instagram"
@@ -118,10 +97,31 @@
       canonicalTagCustomValue: null
       parent: "/"
     meta:
-      sort: 136
+      sort: 128
       listed: true
     data:
       footer_icon: "https://kfz670tf.media.zestyio.com/instagram.png"
       footer_url: null
       sort_by: 5
       title: "Instagram"
+  - id: "ffe8-9909-3a76"
+    web:
+      metaDescription: ""
+      metaTitle: "GitHub"
+      metaLinkText: "GitHub"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 127
+      listed: true
+    data:
+      footer_icon: "https://kfz670tf.media.zestyio.com/github.png"
+      footer_url: "https://github.com/zesty-io"
+      sort_by: 1
+      title: "GitHub"
