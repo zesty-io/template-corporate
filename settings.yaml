@@ -1,45 +1,81 @@
-  - category: "contact-form"
-    key: "sending_email"
-    keyFriendly: "Sending Email"
-    value: "derrick.gaban@zesty.io"
-    admin: null
-    parsleyAccess: null
-    dataType: "text"
-    options: ""
-    tips: null
-  - category: "contact-form"
-    key: "recipients"
-    keyFriendly: "Email Recipients"
-    value: "derrick.gaban@zesty.io"
-    admin: null
-    parsleyAccess: null
-    dataType: "text"
-    options: ""
-    tips: null
-  - category: "contact-form"
-    key: "reply_email"
-    keyFriendly: "Reply Email"
-    value: "derrick.gaban@zesty.io"
-    admin: false
-    parsleyAccess: null
-    dataType: "text"
-    options: ""
-    tips: null
-  - category: "contact-form"
-    key: "honeypot"
-    keyFriendly: "Form Honey Pot"
-    value: "honey"
-    admin: false
-    parsleyAccess: null
-    dataType: "text"
-    options: ""
-    tips: "If this value is set, all posted forms will look for an input whose name matches the honeypot setting value. If forms are posted without an input whose name matches the honeypot setting value, they will not succeed. If a form is posted containing an input whose name matches the honeypot setting value, and this input has a value, the post will fail. It needs to be submitted with no value to succeed.  Setting a honeypot value affects ALL FORMS IMMEDIATELY."
-  - category: "contact-form"
-    key: "safe_emails"
-    keyFriendly: "Safe Email Send To List"
-    value: ""
-    admin: false
-    parsleyAccess: null
-    dataType: "text"
-    options: ""
-    tips: "CSV of Safe Emails for Email Override"
+- category: "contact-form"
+  key: "sending_email"
+  keyFriendly: "Sending Email"
+  value: "derrick.gaban@zesty.io"
+  admin: null
+  parsleyAccess: null
+  dataType: "text"
+  options: ""
+  tips: null
+- category: "contact-form"
+  key: "recipients"
+  keyFriendly: "Email Recipients"
+  value: "derrick.gaban@zesty.io"
+  admin: null
+  parsleyAccess: null
+  dataType: "text"
+  options: ""
+  tips: null
+- category: "contact-form"
+  key: "reply_email"
+  keyFriendly: "Reply Email"
+  value: "derrick.gaban@zesty.io"
+  admin: false
+  parsleyAccess: null
+  dataType: "text"
+  options: ""
+  tips: null
+- category: "contact-form"
+  key: "honeypot"
+  keyFriendly: "Form Honey Pot"
+  value: "honey"
+  admin: false
+  parsleyAccess: null
+  dataType: "text"
+  options: ""
+  tips: "If this value is set, all posted forms will look for an input whose name matches the honeypot setting value. If forms are posted without an input whose name matches the honeypot setting value, they will not succeed. If a form is posted containing an input whose name matches the honeypot setting value, and this input has a value, the post will fail. It needs to be submitted with no value to succeed.  Setting a honeypot value affects ALL FORMS IMMEDIATELY."
+- category: "contact-form"
+  key: "safe_emails"
+  keyFriendly: "Safe Email Send To List"
+  value: ""
+  admin: false
+  parsleyAccess: null
+  dataType: "text"
+  options: ""
+  tips: "CSV of Safe Emails for Email Override"
+- category: "security"
+  key: "headless_authorization_key"
+  keyFriendly: "Headless Endpoint Authorization Secret Key"
+  value: null
+  admin: null
+  parsleyAccess: null
+  dataType: "text"
+  options: ""
+  tips: 'When a value is exists, requests to WebEngine gql, instant, and toJSON endpoints will require the header "Authorization: bearer [Secret Key]". Cache bust required to activate.'
+- category: "security"
+  key: "authorization_key"
+  keyFriendly: "Full WebEngine Authorization Secret Key"
+  value: null
+  admin: null
+  parsleyAccess: null
+  dataType: "text"
+  options: ""
+  tips: 'When a value is exists, ALL requests to WebEngine will require the header "Authorization: bearer [Secret Key]" to resolve. Cache bust required to activate.'
+- category: "security"
+  key: "x_frame_options"
+  keyFriendly: "Header: X-Frame-Options"
+  value: null
+  admin: null
+  parsleyAccess: null
+  dataType: "text"
+  options: "More info https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options"
+  tips: "Here are some suggestions"
+- category: "security"
+  key: "basic_content_api_key"
+  keyFriendly: "Basic Content API Key"
+  value: null
+  admin: null
+  parsleyAccess: null
+  dataType: "text"
+  options: "More info https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options"
+  tips: "Here are some suggestions"
